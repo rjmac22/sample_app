@@ -1,5 +1,12 @@
 # README
 
+https://infinite-springs-72060.herokuapp.com/
+
+A Ruby on Rails app 
+
+Twitter like clone
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
